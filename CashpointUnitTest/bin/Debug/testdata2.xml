@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cashpoint xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Cashpoint">
+  <banknotes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfunsignedIntunsignedByte>
+      <d2p1:Key>1</d2p1:Key>
+      <d2p1:Value>1</d2p1:Value>
+    </d2p1:KeyValueOfunsignedIntunsignedByte>
+    <d2p1:KeyValueOfunsignedIntunsignedByte>
+      <d2p1:Key>5</d2p1:Key>
+      <d2p1:Value>2</d2p1:Value>
+    </d2p1:KeyValueOfunsignedIntunsignedByte>
+  </banknotes>
+</Cashpoint>
