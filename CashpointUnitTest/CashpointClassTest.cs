@@ -9,7 +9,7 @@
     public class CashpointClassTest
     {
         [Test]
-        public void AddBanknoteLargeInput()
+        public void AddBanknoteTest()
         {
             var dic = new Dictionary<uint, uint>();
             var target = new Cashpoint(true, dic);
